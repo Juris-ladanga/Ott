@@ -354,9 +354,9 @@ http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="disneyjr" tvg-logo="https://i.imgur.com/XTzB1MO.png" group-title="CIGMA PRO+", Disney XD
 http://212.102.60.231/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="gma" tvg-logo="https://i.imgur.com/nMSt2j0.png" group-title="CIGMA PRO+", GMA
-https://wag.ika.lat/stream/812083425
+http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo2xBm9xMZK4Yoq2fEzOd2Sk/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="gtv" tvg-logo="https://i.imgur.com/txozMGM.png" group-title="CIGMA PRO+", GTV
-https://wag.ika.lat/stream/872206966
+http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo41V4XcHK5Lccd5m3a-e0MA/ts
 #EXTINF: -1 tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="CIGMA PRO+", DISCOVERY TURBO
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 #EXTINF: -1 tvg-id="Discovery.Science.in" tvg-logo="https://i.imgur.com/l2ld3f1.png" group-title="CIGMA PRO+", Discovery Science
@@ -415,3 +415,17 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-id="NicktoonsUK.uk" tvg-logo="https://imgur.com/kwy4OTl.png" group-title="CIGMA PRO+",Nicktoons
 http://fortv.cc:8080/38871863/38871863/36
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2560px-History_HD_Logo.svg.png" group-title="CIGMA PRO+",HISTORY HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+#EXTINF:-1 group-title="CIGMA PRO+" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Qnjmtc9t06kU8Z_N17RkYADfjPQMrbPBuqyOSbvPGyyw.JPG" ,ALL TV
+http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo_iAWJn4CJB5aLapb9IGyU8/ts
+#EXTINF:-1 group-title="CIGMA PRO+" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Q0-fs9idbEZki8Q-0BADhJmdpMRo2ATz14VnCgL_-ocQ.jpg" ,JEEPNEY TV
+http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo1zYTxG-py1tWe97L_Ni7xk/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZDDMrQG.png" group-title="CIGMA PRO+", Aniplus
+http://bisdaktv.store/stream/iptvmedia.php?id=157611
+#EXTINF: -1 tvg-id="" tvg-logo="https://drive.usercontent.google.com/download?id=1DQ_X3i8CS-fW8WleNbqVoLC1hHPsC6cl&export=download" group-title="CIGMA PRO+",Magellan tv
+https://d38zwu2qgo0ado.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ud4yxs1nuiyc5/Magellan_TV_Now_CA.m3u8?ads.device_did=%7BPSID
