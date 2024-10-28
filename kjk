@@ -429,23 +429,19 @@ http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo1zYTxG-py1tWe97L_Ni7xk/ts
 http://bisdaktv.store/stream/iptvmedia.php?id=157611
 #EXTINF: -1 tvg-id="" tvg-logo="https://drive.usercontent.google.com/download?id=1DQ_X3i8CS-fW8WleNbqVoLC1hHPsC6cl&export=download" group-title="CIGMA PRO+",Magellan tv
 https://d38zwu2qgo0ado.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ud4yxs1nuiyc5/Magellan_TV_Now_CA.m3u8?ads.device_did=%7BPSID
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gFcpYSJ.png" , UNTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="CIGMA PRO+",UNTV
 https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IFpAmvW.png" , CCTN 47
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="CIGMA PRO+", CCTN 47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IUcTFQ2.png" , CLTV36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUcTFQ2.png" group-title="CIGMA PRO+", CLTV36
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TltPHDk.png" , Dreamstar TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TltPHDk.png" group-title="CIGMA PRO+", Dreamstar TV
 https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bq6midD.png" , New KMovies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bq6midD.png" group-title="CIGMA PRO+", New KMovies
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
-#EXTINF:-1 , ION
+#EXTINF:-1 " group-title="CIGMA PRO+", ION
 https://github.com/ex3mpli/bisdak-iptv/raw/refs/heads/main/live/ion.m3u8
-#EXTINF:-1 , ION Plus
+#EXTINF:-1 " group-title="CIGMA PRO+",ION Plus
 https://github.com/ex3mpli/bisdak-iptv/raw/refs/heads/main/live/ionplus.m3u8
-#EXTINF:-1 , ION Mystery
+#EXTINF:-1 " group-title="CIGMA PRO+", ION Mystery
 https://github.com/ex3mpli/bisdak-iptv/raw/refs/heads/main/live/ionmystery.m3u8
-#EXTINF:-1 , Discovery Asia
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 , DMAX
-https://github.com/ex3mpli/bisdak-iptv/raw/refs/heads/main/live/dmax.m3u8
