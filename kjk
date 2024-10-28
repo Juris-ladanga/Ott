@@ -381,8 +381,6 @@ http://185.236.229.62:9981/play/a062
 http://168.181.122.234:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="CIGMA PRO+",HBO Xtreme
 http://168.181.122.234:8000/play/a02s
-#EXTINF: -1 tvg-id="redbulltv.us" tvg-name="RedBull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="CIGMA PRO+", REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Fight_network_logo.svg" group-title="CIGMA PRO+",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png" group-title="CIGMA PRO+" , SONY Movies
@@ -431,8 +429,6 @@ http://bisdaktv.store/stream/iptvmedia.php?id=157611
 https://d38zwu2qgo0ado.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ud4yxs1nuiyc5/Magellan_TV_Now_CA.m3u8?ads.device_did=%7BPSID
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="CIGMA PRO+",UNTV
 https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="CIGMA PRO+", CCTN 47
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUcTFQ2.png" group-title="CIGMA PRO+", CLTV36
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TltPHDk.png" group-title="CIGMA PRO+", Dreamstar TV
