@@ -354,6 +354,8 @@ http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="disneyjr" tvg-logo="https://i.imgur.com/XTzB1MO.png" group-title="CIGMA PRO+", Disney XD
 http://212.102.60.231/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="gma" tvg-logo="https://i.imgur.com/nMSt2j0.png" group-title="CIGMA PRO+", GMA
+https://shorten.is/Mikeph-gmatv-backup-m3u8?.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="gma" tvg-logo="https://i.imgur.com/nMSt2j0.png" group-title="CIGMA PRO+", GMA 2
 http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo2xBm9xMZK4Yoq2fEzOd2Sk/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="gtv" tvg-logo="https://i.imgur.com/txozMGM.png" group-title="CIGMA PRO+", GTV
 http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo41V4XcHK5Lccd5m3a-e0MA/ts
